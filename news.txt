@@ -4,7 +4,7 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopiadimension.vercel.app/petevochart.html
 [-]
-► แก้bugจุกจิก,buff สกิล Bladewave
+► แก้bugจุกจิก,buff สกิล Bladewave,แก้ความหิวของสัตว์ขั้นตั้น 89>90
 -
 [13/03/2569]
 ► เพิ่มระบบ เพิ่มเพื่อน,New!! Pet Cybernetic Egg,แก้บั๊ก ยิบย่อย/skill monk,แก้ animetion
