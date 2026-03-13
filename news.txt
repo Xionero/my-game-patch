@@ -4,6 +4,9 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopiadimension.vercel.app/petevochart.html
 [-]
+► แก้bugจุกจิก,buff สกิล Bladewave
+-
+[13/03/2569]
 ► เพิ่มระบบ เพิ่มเพื่อน,New!! Pet Cybernetic Egg,แก้บั๊ก ยิบย่อย/skill monk,แก้ animetion
 -
 [20/02/2569]
