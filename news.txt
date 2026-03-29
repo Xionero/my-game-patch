@@ -4,6 +4,9 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopiadimension.vercel.app/petevochart.html
 [-]
+► แก้บั๊ก ปรับสมดุลสกิล หลายชนิด ปรับbalanceอาวุธใหม่ทั้งเกม
+-
+[29/03/2569]
 ► แก้bugจุกจิก,ปรับ สกิล BladeWave ให้แรงขึ้น,แก้ความหิวของสัตว์ขั้นตั้น 89>90
 -
 [13/03/2569]
