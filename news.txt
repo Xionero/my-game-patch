@@ -1,9 +1,12 @@
 ► ยินดีต้องรับสู่ Meltopia YouTube
 https://www.youtube.com/@meltopiadimension
-
+[Link]
 ► ตารางวิวัฒนาการ pet
 https://meltopiadimension.vercel.app/petevochart.html
-
+[Link]
+► ปรับสมดุลระบบคริติคอลใหม่,ระบบflee,เพิ่มลูกเล่นตอสู้บอส
+-
+[10/04/2569]
 ► ปรับระบบให้สมดุลขึ้น เพิ่มโอการในการ evo pet 5-20%
 -
 [06/04/2569]
