@@ -4,6 +4,9 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopiadimension.vercel.app/petevochart.html
 [Link]
+► Reset skill ทิ้งเริ่มใหม่,เพิ่ม ระบบเลเวลสกิล, Autoskill
+-
+[17/04/2569]
 ► ปรับสมดุลระบบคริติคอลใหม่,ระบบflee,เพิ่มลูกเล่นตอสู้บอส
 -
 [10/04/2569]
