@@ -2,7 +2,7 @@
 https://www.youtube.com/@meltopiadimension
 [Link]
 ► ตารางวิวัฒนาการ pet
-https://meltopiadimension.vercel.app/petevochart.html
+https://meltopia.netlify.app/petevochart.html
 [Link]
 ► Reset skill ทิ้งเริ่มใหม่,เพิ่ม ระบบเลเวลสกิล, Autoskill
 -
