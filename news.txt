@@ -4,6 +4,9 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopia.netlify.app/petevochart.html
 [Link]
+► ปรับปรุง ui,ปรับปรุงระบบหินใหม่,แก้ไขปุ่ม autoskill จาก A>C 
+-
+[24/04/2569]
 ► Reset skill ทิ้งเริ่มใหม่,เพิ่ม ระบบเลเวลสกิล, Autoskill
 -
 [17/04/2569]
