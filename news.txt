@@ -4,6 +4,9 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopia.netlify.app/petevochart.html
 [Link]
+► reset World ปรับสมดุล exp และ drop
+-
+[3/05/2569]
 ► ปรับปรุง ui,ปรับปรุงระบบหินใหม่,แก้ไขปุ่ม autoskill จาก A>C 
 -
 [24/04/2569]
