@@ -4,6 +4,9 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopia.netlify.app/petevochart.html
 [Link]
+► เพิ่มความคมชัดไอเท่มส่วมใส่บางชนิด,ปรับปรุงuiskill
+-
+11/05/2569]
 ► reset World ปรับสมดุล exp และ drop
 -
 [3/05/2569]
