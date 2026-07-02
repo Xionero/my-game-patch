@@ -4,6 +4,9 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopia.netlify.app/petevochart.html
 [Link]
+► เพิ่มระบบ ส่องไอเท่มส่วมใส่ผู้อื่น
+-
+2/07/2569]
 ► เพิ่มระบบ trade item ระหว่างผุ้เล่นด้วยกัน
 -
 24/06/2569]
