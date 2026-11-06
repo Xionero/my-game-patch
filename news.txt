@@ -4,6 +4,27 @@ https://www.youtube.com/@meltopiadimension
 ► ตารางวิวัฒนาการ pet
 https://meltopia.netlify.app/petevochart.html
 [Link]
+► แก้บั๊ก, ปรับจูน Client ให้ลืนขึ้น
+-
+7/11/2569]
+► Event Halloween, ปรับจูน Client ให้ลืนขึ้น
+-
+21/10/2569]
+► แกบั๊กปาตี้, เพิ่มระบบ world chat
+-
+24/09/2569]
+► ปรับปรุงเครื่อข่ายเล็กน้อย, Reneme Class Warrior to Fighter
+-
+21/09/2569]
+► แก้บั๊ก, ปรับการร่ายเวท จากล๊อกเป้าขยับตามมอนเป็นไม่ขยับ
+-
+18/09/2569]
+► แก้บั๊ก, re-model ครบทุกอาชีพ
+-
+07/09/2569]
+► แก้บั๊ก, re-model warrior,bard,dancer,monk
+-
+21/08/2569]
 ► แก้บั๊ก, เพิ่ม หมวกแครชใหม่
 -
 21/08/2569]
